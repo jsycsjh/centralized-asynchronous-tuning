@@ -1,0 +1,12 @@
+python main.py --bs 8 --output_dir batch_result_1
+python main.py --bs 16 --output_dir batch_result_2
+python main.py --bs 32 --output_dir batch_result_3
+python main.py --bs 64 --output_dir batch_result_4
+python main.py --bs 128 --output_dir batch_result_5
+python main.py --bs 256 --output_dir batch_result_6
+python main.py --bs 512 --output_dir batch_result_7
+python main.py --bs 1024 --output_dir batch_result_8
+python main.py --bs 2048 --output_dir batch_result_9
+python main.py --bs 4096 --output_dir batch_result_10
+python main.py --bs 8192 --output_dir batch_result_11
+python main.py --bs 16384 --output_dir batch_result_12
